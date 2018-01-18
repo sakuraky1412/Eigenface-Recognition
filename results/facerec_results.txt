@@ -1,0 +1,481 @@
+image: att_faces/s1/2.pgm
+result: wrong, got 32
+
+image: att_faces/s1/5.pgm
+result: correct
+
+image: att_faces/s1/8.pgm
+result: correct
+
+image: att_faces/s1/9.pgm
+result: correct
+
+image: att_faces/s2/2.pgm
+result: correct
+
+image: att_faces/s2/4.pgm
+result: correct
+
+image: att_faces/s2/7.pgm
+result: correct
+
+image: att_faces/s2/10.pgm
+result: correct
+
+image: att_faces/s3/5.pgm
+result: correct
+
+image: att_faces/s3/6.pgm
+result: correct
+
+image: att_faces/s3/8.pgm
+result: correct
+
+image: att_faces/s3/9.pgm
+result: correct
+
+image: att_faces/s4/3.pgm
+result: correct
+
+image: att_faces/s4/6.pgm
+result: wrong, got 35
+
+image: att_faces/s4/9.pgm
+result: correct
+
+image: att_faces/s4/10.pgm
+result: correct
+
+image: att_faces/s5/5.pgm
+result: correct
+
+image: att_faces/s5/7.pgm
+result: correct
+
+image: att_faces/s5/8.pgm
+result: correct
+
+image: att_faces/s5/10.pgm
+result: wrong, got 18
+
+image: att_faces/s6/2.pgm
+result: correct
+
+image: att_faces/s6/3.pgm
+result: correct
+
+image: att_faces/s6/4.pgm
+result: correct
+
+image: att_faces/s6/8.pgm
+result: correct
+
+image: att_faces/s7/2.pgm
+result: correct
+
+image: att_faces/s7/5.pgm
+result: correct
+
+image: att_faces/s7/7.pgm
+result: correct
+
+image: att_faces/s7/9.pgm
+result: correct
+
+image: att_faces/s8/1.pgm
+result: correct
+
+image: att_faces/s8/5.pgm
+result: correct
+
+image: att_faces/s8/6.pgm
+result: correct
+
+image: att_faces/s8/9.pgm
+result: correct
+
+image: att_faces/s9/6.pgm
+result: correct
+
+image: att_faces/s9/7.pgm
+result: wrong, got 38
+
+image: att_faces/s9/9.pgm
+result: correct
+
+image: att_faces/s9/10.pgm
+result: correct
+
+image: att_faces/s10/1.pgm
+result: correct
+
+image: att_faces/s10/2.pgm
+result: correct
+
+image: att_faces/s10/4.pgm
+result: correct
+
+image: att_faces/s10/7.pgm
+result: correct
+
+image: att_faces/s11/2.pgm
+result: correct
+
+image: att_faces/s11/3.pgm
+result: correct
+
+image: att_faces/s11/8.pgm
+result: correct
+
+image: att_faces/s11/9.pgm
+result: correct
+
+image: att_faces/s12/2.pgm
+result: correct
+
+image: att_faces/s12/3.pgm
+result: correct
+
+image: att_faces/s12/5.pgm
+result: correct
+
+image: att_faces/s12/10.pgm
+result: correct
+
+image: att_faces/s13/3.pgm
+result: correct
+
+image: att_faces/s13/4.pgm
+result: correct
+
+image: att_faces/s13/7.pgm
+result: correct
+
+image: att_faces/s13/9.pgm
+result: correct
+
+image: att_faces/s14/1.pgm
+result: correct
+
+image: att_faces/s14/4.pgm
+result: correct
+
+image: att_faces/s14/7.pgm
+result: correct
+
+image: att_faces/s14/8.pgm
+result: correct
+
+image: att_faces/s15/1.pgm
+result: correct
+
+image: att_faces/s15/3.pgm
+result: correct
+
+image: att_faces/s15/6.pgm
+result: correct
+
+image: att_faces/s15/9.pgm
+result: correct
+
+image: att_faces/s16/1.pgm
+result: correct
+
+image: att_faces/s16/3.pgm
+result: correct
+
+image: att_faces/s16/5.pgm
+result: correct
+
+image: att_faces/s16/10.pgm
+result: correct
+
+image: att_faces/s17/1.pgm
+result: correct
+
+image: att_faces/s17/2.pgm
+result: correct
+
+image: att_faces/s17/6.pgm
+result: correct
+
+image: att_faces/s17/7.pgm
+result: correct
+
+image: att_faces/s18/1.pgm
+result: correct
+
+image: att_faces/s18/2.pgm
+result: correct
+
+image: att_faces/s18/3.pgm
+result: correct
+
+image: att_faces/s18/9.pgm
+result: correct
+
+image: att_faces/s19/3.pgm
+result: correct
+
+image: att_faces/s19/5.pgm
+result: correct
+
+image: att_faces/s19/6.pgm
+result: correct
+
+image: att_faces/s19/9.pgm
+result: wrong, got  2
+
+image: att_faces/s20/5.pgm
+result: wrong, got 36
+
+image: att_faces/s20/6.pgm
+result: correct
+
+image: att_faces/s20/7.pgm
+result: correct
+
+image: att_faces/s20/9.pgm
+result: correct
+
+image: att_faces/s21/2.pgm
+result: correct
+
+image: att_faces/s21/3.pgm
+result: correct
+
+image: att_faces/s21/5.pgm
+result: correct
+
+image: att_faces/s21/6.pgm
+result: correct
+
+image: att_faces/s22/2.pgm
+result: correct
+
+image: att_faces/s22/4.pgm
+result: correct
+
+image: att_faces/s22/9.pgm
+result: correct
+
+image: att_faces/s22/10.pgm
+result: correct
+
+image: att_faces/s23/2.pgm
+result: correct
+
+image: att_faces/s23/6.pgm
+result: correct
+
+image: att_faces/s23/7.pgm
+result: correct
+
+image: att_faces/s23/9.pgm
+result: correct
+
+image: att_faces/s24/1.pgm
+result: correct
+
+image: att_faces/s24/4.pgm
+result: correct
+
+image: att_faces/s24/7.pgm
+result: correct
+
+image: att_faces/s24/8.pgm
+result: correct
+
+image: att_faces/s25/3.pgm
+result: correct
+
+image: att_faces/s25/4.pgm
+result: correct
+
+image: att_faces/s25/6.pgm
+result: correct
+
+image: att_faces/s25/7.pgm
+result: correct
+
+image: att_faces/s26/1.pgm
+result: correct
+
+image: att_faces/s26/2.pgm
+result: correct
+
+image: att_faces/s26/6.pgm
+result: correct
+
+image: att_faces/s26/10.pgm
+result: correct
+
+image: att_faces/s27/1.pgm
+result: correct
+
+image: att_faces/s27/2.pgm
+result: correct
+
+image: att_faces/s27/4.pgm
+result: correct
+
+image: att_faces/s27/5.pgm
+result: correct
+
+image: att_faces/s28/2.pgm
+result: correct
+
+image: att_faces/s28/3.pgm
+result: correct
+
+image: att_faces/s28/5.pgm
+result: correct
+
+image: att_faces/s28/8.pgm
+result: wrong, got 37
+
+image: att_faces/s29/1.pgm
+result: correct
+
+image: att_faces/s29/3.pgm
+result: correct
+
+image: att_faces/s29/7.pgm
+result: correct
+
+image: att_faces/s29/9.pgm
+result: wrong, got 39
+
+image: att_faces/s30/2.pgm
+result: correct
+
+image: att_faces/s30/3.pgm
+result: correct
+
+image: att_faces/s30/8.pgm
+result: correct
+
+image: att_faces/s30/9.pgm
+result: correct
+
+image: att_faces/s31/4.pgm
+result: correct
+
+image: att_faces/s31/5.pgm
+result: correct
+
+image: att_faces/s31/7.pgm
+result: correct
+
+image: att_faces/s31/8.pgm
+result: correct
+
+image: att_faces/s32/1.pgm
+result: correct
+
+image: att_faces/s32/6.pgm
+result: correct
+
+image: att_faces/s32/7.pgm
+result: wrong, got  2
+
+image: att_faces/s32/8.pgm
+result: correct
+
+image: att_faces/s33/4.pgm
+result: correct
+
+image: att_faces/s33/7.pgm
+result: correct
+
+image: att_faces/s33/9.pgm
+result: correct
+
+image: att_faces/s33/10.pgm
+result: correct
+
+image: att_faces/s34/1.pgm
+result: correct
+
+image: att_faces/s34/2.pgm
+result: correct
+
+image: att_faces/s34/4.pgm
+result: correct
+
+image: att_faces/s34/5.pgm
+result: correct
+
+image: att_faces/s35/4.pgm
+result: correct
+
+image: att_faces/s35/5.pgm
+result: correct
+
+image: att_faces/s35/7.pgm
+result: correct
+
+image: att_faces/s35/10.pgm
+result: wrong, got 40
+
+image: att_faces/s36/1.pgm
+result: correct
+
+image: att_faces/s36/3.pgm
+result: correct
+
+image: att_faces/s36/6.pgm
+result: correct
+
+image: att_faces/s36/10.pgm
+result: wrong, got 17
+
+image: att_faces/s37/3.pgm
+result: correct
+
+image: att_faces/s37/4.pgm
+result: correct
+
+image: att_faces/s37/6.pgm
+result: correct
+
+image: att_faces/s37/10.pgm
+result: correct
+
+image: att_faces/s38/1.pgm
+result: correct
+
+image: att_faces/s38/4.pgm
+result: wrong, got  9
+
+image: att_faces/s38/7.pgm
+result: correct
+
+image: att_faces/s38/10.pgm
+result: correct
+
+image: att_faces/s39/1.pgm
+result: wrong, got 22
+
+image: att_faces/s39/2.pgm
+result: wrong, got 22
+
+image: att_faces/s39/4.pgm
+result: correct
+
+image: att_faces/s39/6.pgm
+result: correct
+
+image: att_faces/s40/3.pgm
+result: correct
+
+image: att_faces/s40/5.pgm
+result: correct
+
+image: att_faces/s40/7.pgm
+result: correct
+
+image: att_faces/s40/8.pgm
+result: correct
+
+Correct: 91.25
